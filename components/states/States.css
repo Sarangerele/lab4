@@ -1,0 +1,25 @@
+/*
+CSS for the CS142 project #4 Problem #2 states component
+
+Since CSS uses a global name space for classes we should use names starting with
+cs142-states- here.
+*/
+/*
+CSS for the CS142 project #4 Problem #2 states component
+
+Since CSS uses a global name space for classes we should use names starting with
+cs142-states- here.
+*/
+.search-box {
+    margin-top: 25px;
+    margin-left: 500px;
+    box-shadow: 1px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 1px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.box {
+    margin-top: 50px;
+    margin-left: 500px;
+    text-shadow: 2px 2px 3px #262B30;
+}
